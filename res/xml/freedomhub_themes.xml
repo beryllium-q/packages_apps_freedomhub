@@ -44,5 +44,13 @@
         <ListPreference
             android:key="android.theme.customization.adaptive_icon_shape"
             android:title="@string/theme_customization_icon_shape_title"/>
+
+        <!-- QS blur toggle-->
+        <com.aim.freedomhub.preferences.SystemSettingSwitchPreference
+            android:key="qs_blur"
+            android:title="@string/blur_quicksettings_title"
+            android:summary="@string/blur_quicksettings_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 </PreferenceScreen>
