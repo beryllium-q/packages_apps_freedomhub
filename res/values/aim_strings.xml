@@ -903,8 +903,4 @@
     <string name="battery_bar_high_color">High level color"</string>
     <string name="battery_bar_low_color">Low level color"</string>
 
-    <!-- QS blur -->
-    <string name="blur_quicksettings_title">Blur behind quick settings (beta)</string>
-    <string name="blur_quicksettings_summary">Blurs the darkened background behind quick settings</string>
-
 </resources>
